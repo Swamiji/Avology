@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AvologyApp</string>
+    <string-array name="Select_gender">
+        <item>--Select Gender--</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="Select_qualification">
+        <item>--Select Qualification--</item>
+        <item>Post Graduate</item>
+        <item>Graduate</item>
+        <item>Higher Secondary</item>
+    </string-array>
+
+    <string-array name="Select_bpo_experience">
+        <item>--Select BPO Experience--</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="Select_work_experience">
+        <item>--Select Work Experience--</item>
+        <item>0 Years</item>
+        <item>1 Years</item>
+        <item>2 Years</item>
+        <item>3 Years</item>
+    </string-array>
+</resources>
